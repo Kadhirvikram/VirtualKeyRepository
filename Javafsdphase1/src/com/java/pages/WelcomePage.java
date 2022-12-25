@@ -10,8 +10,8 @@ import java.util.Scanner;
 
 public class WelcomePage implements MainPage {
 
-    private String welcomeText = "********   welcome to VirtualKey!        ********";
-    private String developerText = "      Developer: Surendra Kuruva       ";
+    private String welcomeText = "Welcome to VirtualKey";
+    private String developerText = "Developed by Kadhir Vikram N";
 
     private ArrayList<String> options = new ArrayList<>();
 
